@@ -4,7 +4,7 @@ Alunos: Leonardo Ribeiro dos Santos Reis e Richard Wilhian Schug
 # Instruçoes
 
 1 - Fazer download do arquivo zip no repositório: https://github.com/SCHUGRWS/chatRollingDices/blob/master/chatRollihnDices-RichardELeonardoReis.zip </br>  </br> 
-2 - Importar o projeto java na IDE Eclipse </br>  </br> 
+2 - Importar o projeto java na IDE Eclipse (Preferência a versão Neon 2) </br>  </br> 
 3 - Executar o arquivo chamado Servidor.java, que pode ser encontrado na pasta br.org.catolicasc.chatRollingDices.servidor </br>
 -----PS: a porta do servidor é a 6500 </br>  </br> 
 4 - Executar (quantas vezes quiser) o arquivo chamado Chat.java, que pode ser encontrado na pasta br.org.catolicasc.chatRollingDices.telaChat </br>  </br> 
